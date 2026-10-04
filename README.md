@@ -8,7 +8,7 @@ Designed to deliver seamless transaction management, real-time metrics, dynamic 
 
 ## 🔗 Links
 
-- **Live Demo**: [Live Demo Placeholder](https://expense-tracker-phi-one-47.vercel.app) *(Deploy on Vercel to replace with your live link)*
+- **Live Demo** [(https://expense-tracker-phi-one-47.vercel.app)]
 - **GitHub Repository**: [https://github.com/Nahidahamedridoy/Expense-Tracker](https://github.com/Nahidahamedridoy/Expense-Tracker)
 
 ---
